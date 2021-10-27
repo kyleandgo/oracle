@@ -6,6 +6,7 @@ const COLORS = [
     {r: 11, g: 71, b: 1}, // green
 ];
 
+
 class App {
     constructor(){
         this.canvas = document.createElement('canvas');
